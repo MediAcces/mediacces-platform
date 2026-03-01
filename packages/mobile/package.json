@@ -1,0 +1,12 @@
+{
+  "name": "@mediacces/mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MédiAccès Services - Application mobile (Patient & Chauffeur/Coursier)",
+  "scripts": {
+    "dev": "echo 'Mobile app scaffold - to be implemented in Sprint 3-6'",
+    "build": "echo 'Mobile app scaffold - to be implemented in Sprint 3-6'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

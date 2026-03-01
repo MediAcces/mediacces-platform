@@ -1,0 +1,12 @@
+{
+  "name": "@mediacces/web-backoffice",
+  "version": "1.0.0",
+  "private": true,
+  "description": "MédiAccès Services - Back-office web (Admin, Hôpitaux, Pharmacies)",
+  "scripts": {
+    "dev": "echo 'Web backoffice scaffold - to be implemented in Sprint 9-14'",
+    "build": "echo 'Web backoffice scaffold - to be implemented in Sprint 9-14'"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
